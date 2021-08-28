@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-28T17:58:56 IST" name="Suite" finished-at="2021-08-28T17:59:01 IST" duration-ms="4783">
+    <groups>
+    </groups>
+    <test started-at="2021-08-28T17:58:56 IST" name="Test" finished-at="2021-08-28T17:59:01 IST" duration-ms="4783">
+      <class name="com.adpushup.mavenproject.TC01_Box1_30sec_display">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:com.adpushup.mavenproject.TC01_Box1_30sec_display@3bd82cf5]" started-at="2021-08-28T17:58:56 IST" name="launchbrowser" finished-at="2021-08-28T17:58:59 IST" duration-ms="2761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="box1_validation()[pri:0, instance:com.adpushup.mavenproject.TC01_Box1_30sec_display@3bd82cf5]" started-at="2021-08-28T17:58:59 IST" name="box1_validation" finished-at="2021-08-28T17:59:01 IST" duration-ms="1836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- box1_validation -->
+        <test-method is-config="true" signature="closeconnection()[pri:0, instance:com.adpushup.mavenproject.TC01_Box1_30sec_display@3bd82cf5]" started-at="2021-08-28T17:59:01 IST" name="closeconnection" finished-at="2021-08-28T17:59:01 IST" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeconnection -->
+      </class> <!-- com.adpushup.mavenproject.TC01_Box1_30sec_display -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
